@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @angel-ibm
-- 👀 I’m interested in Blockchain, Machine Learning and Quantum COmputing
+- 👋 Hi, I’m @angel-ibm aka Angel González
+- 👀 I’m interested in Blockchain, Machine Learning and Quantum Computing
 - 🌱 I’m currently learning Qiskit
 - 💞️ I’m looking to collaborate on Quantum Games
 - 📫 How to reach me: professionally angelito@de.ibm.com
